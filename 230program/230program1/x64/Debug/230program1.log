@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (230program1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  interface.cpp
+C:\Users\lfjos\source\repos\230program\230program1\interface.cpp(106,32): warning C4804: '<': unsafe use of type 'bool' in operation
+  interpreter.cpp
+  Generating Code...
+  230program1.vcxproj -> C:\Users\lfjos\source\repos\230program\x64\Debug\230program.exe
